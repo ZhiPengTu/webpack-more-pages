@@ -1,6 +1,7 @@
 ### webpack4 demo
 ------
->webpack4 多入口，多页面项目构建案例。
+>webpack4 多入口，多页面项目构建案例
+ Multi page configuration
 #### npm install
 ```
 npm install //或
