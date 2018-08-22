@@ -4,7 +4,7 @@
  Multi page configuration
 #### npm install
 ```
-npm install //或
+npm install //或使用 
 cnpm install
 ```
 ### run
